@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xocechka&label=Profile%20views&color=0e75b6&style=flat" alt="xocechka" /> </p>
 
-- 💬 Ask me about **Dart, Flutter, Supabase**
-
 - 📫 How to reach me **xocechka@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
